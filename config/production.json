@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://chandra:chandra@chandradevconnect-6o5bw.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
+
+
